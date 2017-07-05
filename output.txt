@@ -1,0 +1,19 @@
+
+Top 3 articles of all time:
+=======================================================
+Candidate is jerk, alleges rival      |   338647 visits
+Bears love berries, alleges bear      |   253801 visits
+Bad things gone, say good people      |   170098 visits
+
+
+Authors, sorted by popularity:
+=======================================================
+Ursula La Multa                       |   507594 visits
+Rudolf von Treppenwitz                |   423457 visits
+Anonymous Contributor                 |   170098 visits
+Markoff Chaney                        |    84557 visits
+
+
+Days with error rates higher than 1%:
+=======================================================
+July 17, 2016                         |     2.3% errors
