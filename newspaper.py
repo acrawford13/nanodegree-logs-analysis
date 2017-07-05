@@ -4,6 +4,7 @@
 import psycopg2
 import datetime
 
+
 # print report of top 3 articles of all time
 def popular_articles():
     db = psycopg2.connect("dbname=news")
@@ -24,6 +25,7 @@ def popular_articles():
                       for title, visits in results)
     db.close()
     print heading + results
+
 
 # print report of all authors, sorted by popularity
 def popular_authors():
@@ -47,6 +49,7 @@ def popular_authors():
                       for title, visits in results)
     db.close()
     print heading + results
+
 
 # print report of days with error rates higher than 1%
 def error_days():
